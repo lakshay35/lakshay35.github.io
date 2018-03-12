@@ -130,7 +130,9 @@
   }
 
   </style>
-  <title>Home</title>
+  <title>
+    Home
+  </title>
   <link rel="icon" href="bluenote.png">
   <!-- <link href="style.css" type="text/css" rel="stylesheet"> -->
 </head>
@@ -141,7 +143,9 @@
     </ul>
   </header>
   <div id="textwall1">
-    <h1 id="textwallheaderFade">King David</h1>
+    <h1 id="textwallheaderFade">
+      King David
+    </h1>
     <p id="pictureFade">
       <img src="king4.jpg">
     </p>
